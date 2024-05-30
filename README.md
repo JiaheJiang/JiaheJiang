@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_Jiang_Resume.pdf](https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_Jiang_Resume.pdf)
 
-- ⚡ Fun fact **y interests include binge-watching crime series like White Collar, playing badminton, swimming (but trust me, I won't win any races), snapping photos, and embarking on delicious food adventures at the best restaurants.**
+- ⚡ Fun fact ** Some interests include : binge-watching crime series like White Collar, playing badminton, swimming (but trust me, I won't win any races), snapping photos, and embarking on delicious food adventures at the best restaurants.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
