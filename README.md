@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JiaheJiang/](https://github.com/JiaheJiang/)
 
-- 📫 How to reach me **jiahejiang2004@gmail.com**
+- 📫 How to reach me **jiahe72@student.ubc.ca**
 
 - 📄 Know about my experiences [https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_Jiang_Resume.pdf](https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_Jiang_Resume.pdf)
 
