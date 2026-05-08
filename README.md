@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jiahe72@student.ubc.ca**
 
-- 📄 Know about my experiences by clicking <a href="https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_Jiang_Resume.pdf" target="_blank">here</a>
+- 📄 Know about my experiences by clicking <a href="(https://github.com/JiaheJiang/JiaheJiang/blob/main/Jiahe_work_coop.pdf)" target="_blank">here</a>
 
 - ⚡ Fun fact **Some interests include : binge-watching crime series like White Collar, playing badminton, swimming (but trust me, I won't win any races), snapping photos, and embarking on delicious food adventures at the best restaurants.**
 
